@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/001/la-commedia/","noteIcon":"","created":"2023-07-19T15:53:33.261+09:00","updated":"2025-06-16T00:23:51.497+09:00"}
+{"dg-publish":true,"permalink":"/001/la-commedia/","noteIcon":"","created":"2023-07-19T15:53:33.261+09:00","updated":"2025-06-16T00:36:29.322+09:00"}
 ---
+
 
 1. Commedy
 - 희극
